@@ -37,11 +37,41 @@ class TechSightProcessor:
             self.service_df = pd.read_csv(os.path.join(self.data_dir, 'service_delivery.csv'))
 
         # 2. Clean data
+        # Normalize columns using mappings to support actual user CSV format
+        self.sales_df = self.sales_df.rename(columns={
+            'Date': 'date', 'Product': 'product', 'Category': 'category', 
+            'Qty': 'quantity', 'Unit Price ($)': 'unit_price', 'Total Revenue ($)': 'total_revenue'
+        })
+        
+        self.customer_df = self.customer_df.rename(columns={
+            'Customer ID': 'customer_id', 'Name': 'name', 'Email': 'contact_email',
+            'Purchase Date': 'purchase_date', 'Amount ($)': 'purchase_amount',
+            'Rating (1-5)': 'satisfaction_rating', 'Status': 'is_repeat_customer'
+        })
+        # Convert "Returning"/"New" to boolean if it's text
+        if 'is_repeat_customer' in self.customer_df.columns and self.customer_df['is_repeat_customer'].dtype == object:
+            self.customer_df['is_repeat_customer'] = self.customer_df['is_repeat_customer'].apply(
+                lambda x: True if str(x).strip().title() == 'Returning' else False
+            )
+
+        self.inventory_df = self.inventory_df.rename(columns={
+            'Product ID': 'product_id', 'Product Name': 'product_name', 'Category': 'category',
+            'Stock In': 'stock_in', 'Stock Out': 'stock_out', 'Current Stock': 'current_stock',
+            'Reorder Level': 'reorder_level'
+        })
+
+        self.service_df = self.service_df.rename(columns={
+            'Job ID': 'job_id', 'Date': 'date', 'Service Type': 'service_type',
+            'Technician': 'technician_name', 'Completion Time (hrs)': 'completion_time_hours',
+            'Status': 'status', 'Rating (1-5)': 'rating'
+        })
+
         # Drop duplicates
         self.sales_df.drop_duplicates(inplace=True)
         self.customer_df.drop_duplicates(inplace=True)
         self.inventory_df.drop_duplicates(inplace=True)
         self.service_df.drop_duplicates(inplace=True)
+
 
         # Parse dates
         self.sales_df['date'] = pd.to_datetime(self.sales_df['date'])
