@@ -1,0 +1,65 @@
+product_id,product_name,category,stock_in,stock_out,current_stock,reorder_level
+PRD-100,LaserJet Pro,Printers,200,158,26,29
+PRD-101,InkJet Color,Printers,164,147,60,41
+PRD-102,Office Printer A3,Printers,135,80,84,40
+PRD-103,ThinkPad X1,Laptops,166,92,92,44
+PRD-104,MacBook Pro,Laptops,111,83,111,22
+PRD-105,Dell XPS 13,Laptops,269,220,63,34
+PRD-106,Budget Acer,Laptops,240,131,52,12
+PRD-107,Cisco Router,Networking Equipment,219,212,83,34
+PRD-108,Unifi Switch,Networking Equipment,296,28,82,19
+PRD-109,Mesh Wi-Fi System,Networking Equipment,297,179,82,18
+PRD-110,Wireless Mouse,Accessories,75,68,72,16
+PRD-111,Mechanical Keyboard,Accessories,86,62,102,10
+PRD-112,Monitor Stand,Accessories,170,77,28,19
+PRD-113,USB-C Hub,Accessories,227,111,110,31
+PRD-114,Other Product 0,Accessories,268,204,57,15
+PRD-115,Other Product 1,Accessories,233,204,110,30
+PRD-116,Other Product 2,Accessories,59,49,110,41
+PRD-117,Other Product 3,Accessories,211,185,44,14
+PRD-118,Other Product 4,Accessories,241,33,57,28
+PRD-119,Other Product 5,Accessories,244,172,49,37
+PRD-120,Other Product 6,Accessories,92,48,72,16
+PRD-121,Other Product 7,Accessories,133,111,16,11
+PRD-122,Other Product 8,Accessories,141,105,50,13
+PRD-123,Other Product 9,Accessories,112,77,55,37
+PRD-124,Other Product 10,Accessories,224,212,108,36
+PRD-125,Other Product 11,Accessories,94,20,42,21
+PRD-126,Other Product 12,Accessories,208,184,97,49
+PRD-127,Other Product 13,Accessories,283,83,88,25
+PRD-128,Other Product 14,Accessories,213,75,83,24
+PRD-129,Other Product 15,Accessories,220,12,71,39
+PRD-130,Other Product 16,Accessories,223,149,75,39
+PRD-131,Other Product 17,Accessories,163,98,29,20
+PRD-132,Other Product 18,Accessories,213,118,85,47
+PRD-133,Other Product 19,Accessories,266,164,84,26
+PRD-134,Other Product 20,Accessories,268,257,12,22
+PRD-135,Other Product 21,Accessories,147,101,46,16
+PRD-136,Other Product 22,Accessories,229,85,18,46
+PRD-137,Other Product 23,Accessories,151,80,95,11
+PRD-138,Other Product 24,Accessories,271,35,82,10
+PRD-139,Other Product 25,Accessories,177,83,143,48
+PRD-140,Other Product 26,Accessories,255,100,101,24
+PRD-141,Other Product 27,Accessories,98,89,105,24
+PRD-142,Other Product 28,Accessories,243,194,112,26
+PRD-143,Other Product 29,Accessories,74,15,98,18
+PRD-144,Other Product 30,Accessories,162,18,129,29
+PRD-145,Other Product 31,Accessories,237,43,93,47
+PRD-146,Other Product 32,Accessories,133,105,52,15
+PRD-147,Other Product 33,Accessories,101,26,58,36
+PRD-148,Other Product 34,Accessories,185,138,90,44
+PRD-149,Other Product 35,Accessories,115,115,48,27
+PRD-150,Other Product 36,Accessories,241,232,77,40
+PRD-151,Other Product 37,Accessories,169,29,45,31
+PRD-152,Other Product 38,Accessories,297,125,115,19
+PRD-153,Other Product 39,Accessories,143,33,106,35
+PRD-154,Other Product 40,Accessories,117,78,36,35
+PRD-155,Other Product 41,Accessories,144,77,75,17
+PRD-156,Other Product 42,Accessories,260,173,95,47
+PRD-157,Other Product 43,Accessories,222,69,46,33
+PRD-158,Other Product 44,Accessories,208,153,43,40
+PRD-159,Other Product 45,Accessories,106,92,108,30
+PRD-160,Other Product 46,Accessories,260,128,95,14
+PRD-161,Other Product 47,Accessories,154,39,112,29
+PRD-162,Other Product 48,Accessories,292,29,23,18
+PRD-163,Other Product 49,Accessories,79,22,92,29

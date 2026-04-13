@@ -1,0 +1,248 @@
+date,product,category,quantity,unit_price,total_revenue
+2026-01-01,LaserJet Pro,Printers,3,67.22,201.66
+2026-01-02,MacBook Pro,Laptops,2,73.4,146.8
+2026-01-02,Office Printer A3,Printers,5,43.49,217.45
+2026-01-02,Office Printer A3,Printers,4,84.22,336.88
+2026-01-02,LaserJet Pro,Printers,1,139.93,139.93
+2026-01-03,MacBook Pro,Laptops,5,27.99,139.95
+2026-01-03,Network Setup,Technical Services,1,343.53000000000003,343.53000000000003
+2026-01-04,Budget Acer,Laptops,2,115.44,230.88
+2026-01-04,Monitor Stand,Accessories,1,124.4,124.4
+2026-01-04,Budget Acer,Laptops,3,68.78,206.34
+2026-01-05,Cisco Router,Networking Equipment,2,62.38,124.76
+2026-01-05,Cisco Router,Networking Equipment,1,124.63,124.63
+2026-01-05,Wireless Mouse,Accessories,3,59.18,177.54
+2026-01-05,Mesh Wi-Fi System,Networking Equipment,3,20.15,60.45
+2026-01-05,Office Printer A3,Printers,4,16.6,66.4
+2026-01-05,Network Setup,Technical Services,1,115.81,115.81
+2026-01-05,Office Printer A3,Printers,3,31.6,94.8
+2026-01-06,Annual Maintenance,Technical Services,1,181.12,181.12
+2026-01-07,ThinkPad X1,Laptops,1,99.9,99.9
+2026-01-07,Dell XPS 13,Laptops,1,77.64,77.64
+2026-01-08,ThinkPad X1,Laptops,4,81.84,327.36
+2026-01-08,Unifi Switch,Networking Equipment,3,46.84,140.52
+2026-01-08,Dell XPS 13,Laptops,3,54.24,162.72
+2026-01-10,Dell XPS 13,Laptops,1,77.16,77.16
+2026-01-10,Data Recovery,Technical Services,1,116.86999999999999,116.86999999999999
+2026-01-11,MacBook Pro,Laptops,4,41.57,166.28
+2026-01-11,Monitor Stand,Accessories,5,17.7,88.5
+2026-01-11,Dell XPS 13,Laptops,1,189.82,189.82
+2026-01-11,ThinkPad X1,Laptops,3,38.83,116.49
+2026-01-11,Monitor Stand,Accessories,1,135.96,135.96
+2026-01-12,Dell XPS 13,Laptops,2,58.22,116.44
+2026-01-12,USB-C Hub,Accessories,4,99.29,397.16
+2026-01-12,Dell XPS 13,Laptops,2,78.12,156.24
+2026-01-12,Dell XPS 13,Laptops,5,18.54,92.7
+2026-01-13,USB-C Hub,Accessories,3,79.11,237.33
+2026-01-13,MacBook Pro,Laptops,5,17.09,85.45
+2026-01-14,Wireless Mouse,Accessories,1,174.63,174.63
+2026-01-14,LaserJet Pro,Printers,2,29.52,59.04
+2026-01-14,Wireless Mouse,Accessories,4,20.24,80.96
+2026-01-14,USB-C Hub,Accessories,5,34.72,173.6
+2026-01-15,Mesh Wi-Fi System,Networking Equipment,1,227.57,227.57
+2026-01-15,Office Printer A3,Printers,5,34.28,171.4
+2026-01-17,Mesh Wi-Fi System,Networking Equipment,3,49.49,148.47
+2026-01-17,InkJet Color,Printers,4,33.83,135.32
+2026-01-17,Budget Acer,Laptops,1,75.11,75.11
+2026-01-18,Mesh Wi-Fi System,Networking Equipment,2,54.88,109.76
+2026-01-18,Network Setup,Technical Services,1,122.0,122.0
+2026-01-18,Data Recovery,Technical Services,1,263.92,263.92
+2026-01-18,Cisco Router,Networking Equipment,5,37.36,186.8
+2026-01-18,Network Setup,Technical Services,1,62.2,62.2
+2026-01-19,Unifi Switch,Networking Equipment,1,184.98,184.98
+2026-01-19,InkJet Color,Printers,3,43.25,129.75
+2026-01-19,ThinkPad X1,Laptops,2,56.07,112.14
+2026-01-21,Network Setup,Technical Services,1,210.64000000000001,210.64000000000001
+2026-01-21,Wireless Mouse,Accessories,5,52.68,263.4
+2026-01-21,MacBook Pro,Laptops,4,62.65,250.6
+2026-01-22,Data Recovery,Technical Services,1,100.45,100.45
+2026-01-23,IT Consulting,Technical Services,1,131.83,131.83
+2026-01-23,Data Recovery,Technical Services,1,182.70000000000002,182.70000000000002
+2026-01-25,Monitor Stand,Accessories,4,64.05,256.2
+2026-01-27,IT Consulting,Technical Services,1,120.85,120.85
+2026-01-27,MacBook Pro,Laptops,1,143.36,143.36
+2026-01-27,Cisco Router,Networking Equipment,5,18.09,90.45
+2026-01-27,Data Recovery,Technical Services,1,83.55,83.55
+2026-01-28,ThinkPad X1,Laptops,1,236.15,236.15
+2026-01-29,LaserJet Pro,Printers,1,309.93,309.93
+2026-01-29,InkJet Color,Printers,1,151.75,151.75
+2026-01-29,Data Recovery,Technical Services,1,256.87,256.87
+2026-01-30,Mechanical Keyboard,Accessories,5,37.7,188.5
+2026-01-30,Budget Acer,Laptops,2,56.97,113.94
+2026-02-01,USB-C Hub,Accessories,2,86.44,172.88
+2026-02-01,LaserJet Pro,Printers,4,77.84,311.36
+2026-02-01,Unifi Switch,Networking Equipment,4,35.44,141.76
+2026-02-01,Wireless Mouse,Accessories,1,315.53,315.53
+2026-02-02,InkJet Color,Printers,3,12.98,38.94
+2026-02-03,LaserJet Pro,Printers,2,108.82,217.64
+2026-02-03,Budget Acer,Laptops,2,75.36,150.72
+2026-02-04,Mechanical Keyboard,Accessories,3,41.42,124.26
+2026-02-04,Mechanical Keyboard,Accessories,1,151.08,151.08
+2026-02-04,Wireless Mouse,Accessories,1,53.42,53.42
+2026-02-05,Network Setup,Technical Services,1,126.33999999999999,126.33999999999999
+2026-02-06,MacBook Pro,Laptops,4,43.13,172.52
+2026-02-06,USB-C Hub,Accessories,2,151.07,302.14
+2026-02-06,Wireless Mouse,Accessories,2,55.68,111.36
+2026-02-06,Wireless Mouse,Accessories,4,24.08,96.32
+2026-02-06,Unifi Switch,Networking Equipment,3,37.43,112.29
+2026-02-07,USB-C Hub,Accessories,2,114.03,228.06
+2026-02-07,Dell XPS 13,Laptops,2,85.04,170.08
+2026-02-07,Office Printer A3,Printers,5,22.14,110.7
+2026-02-08,Office Printer A3,Printers,3,62.17,186.51
+2026-02-08,LaserJet Pro,Printers,5,30.3,151.5
+2026-02-08,Mechanical Keyboard,Accessories,1,234.22,234.22
+2026-02-08,Network Setup,Technical Services,1,98.64,98.64
+2026-02-08,Office Printer A3,Printers,1,122.5,122.5
+2026-02-08,Budget Acer,Laptops,1,118.61,118.61
+2026-02-09,Data Recovery,Technical Services,1,66.47,66.47
+2026-02-09,Network Setup,Technical Services,1,164.38000000000002,164.38000000000002
+2026-02-10,InkJet Color,Printers,5,32.89,164.45
+2026-02-11,Annual Maintenance,Technical Services,1,141.72,141.72
+2026-02-11,Dell XPS 13,Laptops,2,64.17,128.34
+2026-02-11,Unifi Switch,Networking Equipment,2,35.56,71.12
+2026-02-11,Unifi Switch,Networking Equipment,3,38.98,116.94
+2026-02-12,LaserJet Pro,Printers,4,30.4,121.6
+2026-02-12,Network Setup,Technical Services,1,93.67,93.67
+2026-02-12,Data Recovery,Technical Services,1,133.12,133.12
+2026-02-13,Cisco Router,Networking Equipment,3,58.87,176.61
+2026-02-13,LaserJet Pro,Printers,3,123.52,370.56
+2026-02-13,Cisco Router,Networking Equipment,4,39.37,157.48
+2026-02-13,Annual Maintenance,Technical Services,1,164.14,164.14
+2026-02-13,Network Setup,Technical Services,1,139.03,139.03
+2026-02-13,Mesh Wi-Fi System,Networking Equipment,1,55.29,55.29
+2026-02-14,Dell XPS 13,Laptops,1,142.4,142.4
+2026-02-15,Office Printer A3,Printers,5,29.74,148.7
+2026-02-15,Dell XPS 13,Laptops,3,164.83,494.49
+2026-02-15,Data Recovery,Technical Services,1,131.07,131.07
+2026-02-16,Dell XPS 13,Laptops,5,33.56,167.8
+2026-02-16,Monitor Stand,Accessories,1,141.82,141.82
+2026-02-16,Office Printer A3,Printers,4,20.11,80.44
+2026-02-16,Cisco Router,Networking Equipment,1,255.53,255.53
+2026-02-17,Cisco Router,Networking Equipment,3,70.06,210.18
+2026-02-18,Budget Acer,Laptops,5,42.86,214.3
+2026-02-18,Wireless Mouse,Accessories,1,91.58,91.58
+2026-02-19,Office Printer A3,Printers,2,145.5,291.0
+2026-02-19,Network Setup,Technical Services,1,71.59,71.59
+2026-02-19,Data Recovery,Technical Services,1,193.52,193.52
+2026-02-19,ThinkPad X1,Laptops,3,143.82,431.46
+2026-02-20,Cisco Router,Networking Equipment,3,29.31,87.93
+2026-02-20,MacBook Pro,Laptops,1,108.72,108.72
+2026-02-20,Mesh Wi-Fi System,Networking Equipment,4,37.92,151.68
+2026-02-21,Data Recovery,Technical Services,1,112.19,112.19
+2026-02-21,MacBook Pro,Laptops,4,16.61,66.44
+2026-02-22,LaserJet Pro,Printers,3,49.78,149.34
+2026-02-23,Mechanical Keyboard,Accessories,3,28.28,84.84
+2026-02-23,ThinkPad X1,Laptops,4,45.72,182.88
+2026-02-23,InkJet Color,Printers,2,45.56,91.12
+2026-02-23,Budget Acer,Laptops,3,104.41,313.23
+2026-02-24,Cisco Router,Networking Equipment,2,48.77,97.54
+2026-02-24,Office Printer A3,Printers,2,61.42,122.84
+2026-02-25,Monitor Stand,Accessories,3,72.25,216.75
+2026-02-25,InkJet Color,Printers,3,25.99,77.97
+2026-02-25,IT Consulting,Technical Services,1,161.69,161.69
+2026-02-25,Cisco Router,Networking Equipment,1,277.41,277.41
+2026-02-25,Cisco Router,Networking Equipment,5,12.92,64.6
+2026-02-26,Cisco Router,Networking Equipment,1,158.26,158.26
+2026-02-26,IT Consulting,Technical Services,1,164.33,164.33
+2026-02-26,Unifi Switch,Networking Equipment,5,42.67,213.35
+2026-02-27,Network Setup,Technical Services,1,77.75,77.75
+2026-02-27,Data Recovery,Technical Services,1,74.57,74.57
+2026-02-27,Office Printer A3,Printers,4,46.84,187.36
+2026-02-27,Office Printer A3,Printers,5,33.48,167.4
+2026-03-01,Dell XPS 13,Laptops,4,34.67,138.68
+2026-03-01,Office Printer A3,Printers,3,48.5,145.5
+2026-03-02,Annual Maintenance,Technical Services,1,87.08,87.08
+2026-03-02,Mesh Wi-Fi System,Networking Equipment,3,45.8,137.4
+2026-03-03,Monitor Stand,Accessories,4,35.42,141.68
+2026-03-03,Mesh Wi-Fi System,Networking Equipment,2,42.8,85.6
+2026-03-03,Budget Acer,Laptops,4,77.75,311.0
+2026-03-03,Dell XPS 13,Laptops,4,38.76,155.04
+2026-03-03,Network Setup,Technical Services,1,67.44,67.44
+2026-03-04,Cisco Router,Networking Equipment,4,42.47,169.88
+2026-03-04,Annual Maintenance,Technical Services,1,75.15,75.15
+2026-03-04,USB-C Hub,Accessories,2,90.68,181.36
+2026-03-04,IT Consulting,Technical Services,1,218.36,218.36
+2026-03-04,InkJet Color,Printers,5,16.23,81.15
+2026-03-04,Annual Maintenance,Technical Services,1,198.06,198.06
+2026-03-04,Dell XPS 13,Laptops,2,75.19,150.38
+2026-03-05,MacBook Pro,Laptops,1,184.55,184.55
+2026-03-05,LaserJet Pro,Printers,4,78.96,315.84
+2026-03-05,Network Setup,Technical Services,1,108.22,108.22
+2026-03-05,Mechanical Keyboard,Accessories,4,20.98,83.92
+2026-03-05,USB-C Hub,Accessories,2,39.21,78.42
+2026-03-05,ThinkPad X1,Laptops,1,81.37,81.37
+2026-03-06,Mechanical Keyboard,Accessories,2,58.86,117.72
+2026-03-06,IT Consulting,Technical Services,1,145.1,145.1
+2026-03-07,Data Recovery,Technical Services,1,140.5,140.5
+2026-03-07,Mechanical Keyboard,Accessories,4,46.26,185.04
+2026-03-07,Annual Maintenance,Technical Services,1,123.15,123.15
+2026-03-07,IT Consulting,Technical Services,1,253.06,253.06
+2026-03-09,Mechanical Keyboard,Accessories,4,26.8,107.2
+2026-03-09,Monitor Stand,Accessories,2,238.36,476.72
+2026-03-09,Mesh Wi-Fi System,Networking Equipment,4,41.82,167.28
+2026-03-10,Dell XPS 13,Laptops,4,19.92,79.68
+2026-03-10,Office Printer A3,Printers,3,23.87,71.61
+2026-03-10,Dell XPS 13,Laptops,3,51.91,155.73
+2026-03-10,Mesh Wi-Fi System,Networking Equipment,1,109.41,109.41
+2026-03-11,MacBook Pro,Laptops,2,87.42,174.84
+2026-03-11,Mechanical Keyboard,Accessories,2,77.5,155.0
+2026-03-11,InkJet Color,Printers,4,29.49,117.96
+2026-03-11,Mesh Wi-Fi System,Networking Equipment,4,20.03,80.12
+2026-03-12,Wireless Mouse,Accessories,2,28.68,57.36
+2026-03-12,USB-C Hub,Accessories,5,19.57,97.85
+2026-03-12,Office Printer A3,Printers,4,46.94,187.76
+2026-03-12,Wireless Mouse,Accessories,3,45.39,136.17
+2026-03-12,Unifi Switch,Networking Equipment,4,16.41,65.64
+2026-03-12,Data Recovery,Technical Services,1,133.41,133.41
+2026-03-12,Dell XPS 13,Laptops,4,37.08,148.32
+2026-03-13,Wireless Mouse,Accessories,4,19.66,78.64
+2026-03-13,Mesh Wi-Fi System,Networking Equipment,4,33.03,132.12
+2026-03-13,Budget Acer,Laptops,2,62.98,125.96
+2026-03-13,Network Setup,Technical Services,1,69.09,69.09
+2026-03-14,Network Setup,Technical Services,1,146.31,146.31
+2026-03-14,Mechanical Keyboard,Accessories,4,40.49,161.96
+2026-03-16,ThinkPad X1,Laptops,3,70.09,210.27
+2026-03-17,Monitor Stand,Accessories,2,103.61,207.22
+2026-03-17,Monitor Stand,Accessories,3,20.48,61.44
+2026-03-17,Monitor Stand,Accessories,4,19.14,76.56
+2026-03-18,Cisco Router,Networking Equipment,4,39.57,158.28
+2026-03-19,Office Printer A3,Printers,5,31.64,158.2
+2026-03-20,InkJet Color,Printers,2,79.14,158.28
+2026-03-20,Office Printer A3,Printers,1,839.86,839.86
+2026-03-20,LaserJet Pro,Printers,2,81.39,162.78
+2026-03-20,Office Printer A3,Printers,2,107.93,215.86
+2026-03-20,MacBook Pro,Laptops,4,49.28,197.12
+2026-03-21,Office Printer A3,Printers,2,84.72,169.44
+2026-03-21,Monitor Stand,Accessories,3,34.83,104.49
+2026-03-21,ThinkPad X1,Laptops,2,89.41,178.82
+2026-03-21,Cisco Router,Networking Equipment,5,16.63,83.15
+2026-03-22,InkJet Color,Printers,5,21.74,108.7
+2026-03-22,USB-C Hub,Accessories,2,47.99,95.98
+2026-03-22,Office Printer A3,Printers,2,63.73,127.46
+2026-03-22,Office Printer A3,Printers,3,129.75,389.25
+2026-03-23,Network Setup,Technical Services,1,48.1,48.1
+2026-03-23,InkJet Color,Printers,5,34.49,172.45
+2026-03-23,Monitor Stand,Accessories,1,54.63,54.63
+2026-03-23,Annual Maintenance,Technical Services,1,96.63,96.63
+2026-03-24,USB-C Hub,Accessories,1,210.89,210.89
+2026-03-24,Monitor Stand,Accessories,4,31.58,126.32
+2026-03-24,Budget Acer,Laptops,2,35.69,71.38
+2026-03-24,Annual Maintenance,Technical Services,1,85.56,85.56
+2026-03-24,IT Consulting,Technical Services,1,171.86,171.86
+2026-03-25,Monitor Stand,Accessories,3,28.31,84.93
+2026-03-26,ThinkPad X1,Laptops,3,45.44,136.32
+2026-03-26,Mechanical Keyboard,Accessories,4,31.29,125.16
+2026-03-26,IT Consulting,Technical Services,1,88.33,88.33
+2026-03-27,InkJet Color,Printers,3,119.13,357.39
+2026-03-27,Budget Acer,Laptops,2,83.99,167.98
+2026-03-27,Unifi Switch,Networking Equipment,3,14.82,44.46
+2026-03-27,Mesh Wi-Fi System,Networking Equipment,3,44.77,134.31
+2026-03-27,Network Setup,Technical Services,1,87.88,87.88
+2026-03-27,ThinkPad X1,Laptops,2,93.68,187.36
+2026-03-27,USB-C Hub,Accessories,5,16.46,82.3
+2026-03-28,Budget Acer,Laptops,4,28.88,115.52
+2026-03-28,Wireless Mouse,Accessories,1,157.49,157.49
+2026-03-28,Cisco Router,Networking Equipment,4,47.16,188.64
+2026-03-29,Dell XPS 13,Laptops,5,13.43,67.15
+2026-03-29,Unifi Switch,Networking Equipment,5,20.7,103.5
+2026-03-30,Annual Maintenance,Technical Services,1,96.49,96.49
