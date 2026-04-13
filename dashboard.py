@@ -57,17 +57,25 @@ st.sidebar.header("📁 Load Datasets")
 st.sidebar.caption("Optionally upload custom data. Falls back to default synthetic data if empty.")
 
 custom_data = {}
-sales_file = st.sidebar.file_uploader("Sales Data (CSV)", type="csv")
-if sales_file: custom_data['sales'] = pd.read_csv(sales_file)
 
-cust_file = st.sidebar.file_uploader("Customer Data (CSV)", type="csv")
-if cust_file: custom_data['customer'] = pd.read_csv(cust_file)
+def load_uploader(file):
+    if file.name.endswith(".csv"):
+        return pd.read_csv(file)
+    elif file.name.endswith((".xls", ".xlsx")):
+        return pd.read_excel(file)
+    return None
 
-inv_file = st.sidebar.file_uploader("Inventory Data (CSV)", type="csv")
-if inv_file: custom_data['inventory'] = pd.read_csv(inv_file)
+sales_file = st.sidebar.file_uploader("Sales Data (CSV/Excel)", type=["csv", "xlsx", "xls"])
+if sales_file: custom_data['sales'] = load_uploader(sales_file)
 
-serv_file = st.sidebar.file_uploader("Service Delivery Data (CSV)", type="csv", key="serv")
-if serv_file: custom_data['service'] = pd.read_csv(serv_file)
+cust_file = st.sidebar.file_uploader("Customer Data (CSV/Excel)", type=["csv", "xlsx", "xls"])
+if cust_file: custom_data['customer'] = load_uploader(cust_file)
+
+inv_file = st.sidebar.file_uploader("Inventory Data (CSV/Excel)", type=["csv", "xlsx", "xls"])
+if inv_file: custom_data['inventory'] = load_uploader(inv_file)
+
+serv_file = st.sidebar.file_uploader("Service Delivery Data (CSV/Excel)", type=["csv", "xlsx", "xls"], key="serv")
+if serv_file: custom_data['service'] = load_uploader(serv_file)
 
 # We initialize processor without cache due to dynamic uploded files
 try:
